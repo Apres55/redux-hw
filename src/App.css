@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+
+.postFooter {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  width: 290px;
+}
+
+
+.footer-logo {
+  height: 2vmin;
+  pointer-events: none;
+}
+
+button {
+  margin: 0;
+  border: none;
+  background: none;
+  height: max-content;
+  width: 60px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: rgba(0, 0, 0, 0.742);
+}
