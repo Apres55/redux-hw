@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/redux-hw/static/css/main.29ebbb11.css",
+    "main.js": "/redux-hw/static/js/main.1caf28d5.js",
+    "static/media/dur.jpg": "/redux-hw/static/media/dur.e06c2551a1512ac81e84.jpg",
+    "static/media/kyr.jpg": "/redux-hw/static/media/kyr.3e3d70027b74b4c53239.jpg",
+    "static/media/west.jpg": "/redux-hw/static/media/west.e9bb725cf2eeb475e90e.jpg",
+    "static/media/refresh.svg": "/redux-hw/static/media/refresh.ea51bd8fa29af40f88a602a292009574.svg",
+    "static/media/speech-bubble.svg": "/redux-hw/static/media/speech-bubble.67b8bcba59621863cc6288561e9db65c.svg",
+    "static/media/heart.svg": "/redux-hw/static/media/heart.3b9d19638eb779e8c796a9373c20db71.svg",
+    "static/media/upload.svg": "/redux-hw/static/media/upload.a8737a7a09d5a488fdf4001fdc87756a.svg",
+    "index.html": "/redux-hw/index.html",
+    "main.29ebbb11.css.map": "/redux-hw/static/css/main.29ebbb11.css.map",
+    "main.1caf28d5.js.map": "/redux-hw/static/js/main.1caf28d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29ebbb11.css",
+    "static/js/main.1caf28d5.js"
+  ]
+}
